@@ -3,3 +3,6 @@ A daily updated Json file about the spread of the Covid-19 virus in Italy. It co
 
 Link to Json file:
 https://github.com/stefanobeta/Covid-19-Json-Data-Italy/raw/master/covid.json
+
+Official Data - Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile:
+https://github.com/pcm-dpc/COVID-19
