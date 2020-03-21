@@ -6,3 +6,5 @@ https://github.com/stefanobeta/Covid-19-Json-Data-Italy/raw/master/covid.json
 
 Official Data - Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile:  
 https://github.com/pcm-dpc/COVID-19
+
+![Chart](https://raw.githubusercontent.com/stefanobeta/Covid-19-Json-Data-Italy/master/chart.png)
