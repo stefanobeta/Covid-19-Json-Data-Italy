@@ -186,6 +186,13 @@
 		"positive":37860,
 		"deaths":4032,
 		"recovered":5129
+	},
+
+	"2020-03-21":{
+		"confirmed":53578,
+		"positive":42681,
+		"deaths":4825,
+		"recovered":6072
 	}
 
 
