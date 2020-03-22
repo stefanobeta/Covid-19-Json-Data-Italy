@@ -193,6 +193,13 @@
 		"positive":42681,
 		"deaths":4825,
 		"recovered":6072
+	},
+
+	"2020-03-22":{
+		"confirmed":59138,
+		"positive":46638,
+		"deaths":5476,
+		"recovered":7024
 	}
 
 
