@@ -228,6 +228,13 @@
 		"positive":62013,
 		"deaths":8165,
 		"recovered":10361
+	},
+
+	"2020-03-27":{
+		"confirmed":86498,
+		"positive":66414,
+		"deaths":9134,
+		"recovered":10950
 	}
 
 
