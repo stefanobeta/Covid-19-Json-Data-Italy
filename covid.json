@@ -319,6 +319,13 @@
 		"positive":95262,
 		"deaths":17669,
 		"recovered":26491
+	},
+
+	"2020-04-09":{
+		"confirmed":143626,
+		"positive":96877,
+		"deaths":18279,
+		"recovered":28470
 	}
 
 
