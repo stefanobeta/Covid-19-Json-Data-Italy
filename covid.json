@@ -410,6 +410,83 @@
 		"positive":107709,
 		"deaths":24648,
 		"recovered":51600
+	},
+
+	"2020-04-22":{
+		"confirmed":187327,
+		"positive":107699,
+		"deaths":25085,
+		"recovered":54543
+	},
+
+	"2020-04-23":{
+		"confirmed":189973,
+		"positive":106848,
+		"deaths":25549,
+		"recovered":57576
+	},
+
+	"2020-04-24":{
+		"confirmed":192994,
+		"positive":106527,
+		"deaths":25969,
+		"recovered":60498
+	},
+
+	"2020-04-25":{
+		"confirmed":195351,
+		"positive":105847,
+		"deaths":26384,
+		"recovered":63120
+	},
+
+	"2020-04-26":{
+		"confirmed":197675,
+		"positive":106103,
+		"deaths":26644,
+		"recovered":64928
+	},
+
+	"2020-04-27":{
+		"confirmed":199414,
+		"positive":105813,
+		"deaths":26977,
+		"recovered":66624
+	},
+
+	"2020-04-28":{
+		"confirmed":201505,
+		"positive":105205,
+		"deaths":27359,
+		"recovered":68941
+	},
+
+	"2020-04-29":{
+		"confirmed":203591,
+		"positive":104657,
+		"deaths":27682,
+		"recovered":71252
+	},
+
+	"2020-04-30":{
+		"confirmed":205463,
+		"positive":101551,
+		"deaths":27967,
+		"recovered":75945
+	},
+
+	"2020-05-01":{
+		"confirmed":207428,
+		"positive":100943,
+		"deaths":28236,
+		"recovered":78249
+	},
+
+	"2020-05-02":{
+		"confirmed":209328,
+		"positive":100704,
+		"deaths":28710,
+		"recovered":79914
 	}
 
 
