@@ -487,6 +487,13 @@
 		"positive":100704,
 		"deaths":28710,
 		"recovered":79914
+	},
+
+	"2020-05-03":{
+		"confirmed":210717,
+		"positive":100179,
+		"deaths":28884,
+		"recovered":81654
 	}
 
 
