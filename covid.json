@@ -494,6 +494,27 @@
 		"positive":100179,
 		"deaths":28884,
 		"recovered":81654
+	},
+
+	"2020-05-04":{
+		"confirmed":211938,
+		"positive":99980,
+		"deaths":29079,
+		"recovered":82879
+	},
+
+	"2020-05-05":{
+		"confirmed":213013,
+		"positive":98467,
+		"deaths":29315,
+		"recovered":85231
+	},
+
+	"2020-05-06":{
+		"confirmed":214457,
+		"positive":91528,
+		"deaths":29684,
+		"recovered":93245
 	}
 
 
