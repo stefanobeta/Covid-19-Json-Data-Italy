@@ -515,6 +515,41 @@
 		"positive":91528,
 		"deaths":29684,
 		"recovered":93245
+	},
+
+	"2020-05-07":{
+		"confirmed":215858,
+		"positive":89624,
+		"deaths":29958,
+		"recovered":96276
+	},
+
+	"2020-05-08":{
+		"confirmed":217185,
+		"positive":87961,
+		"deaths":30201,
+		"recovered":99023
+	},
+
+	"2020-05-09":{
+		"confirmed":218268,
+		"positive":84842,
+		"deaths":30395,
+		"recovered":103031
+	},
+
+	"2020-05-10":{
+		"confirmed":219070,
+		"positive":83324,
+		"deaths":30560,
+		"recovered":105186
+	},
+
+	"2020-05-11":{
+		"confirmed":219814,
+		"positive":82488,
+		"deaths":30739,
+		"recovered":106587
 	}
 
 
